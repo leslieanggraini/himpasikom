@@ -10,11 +10,12 @@ Pada* python *projects* yang reguler menggunakan format .py yaitu sebuah *plain 
 | :-: |
 |**Python *Projects***|***Notebooks***|
 | :-: |
-|<p>1. Sangat sederhana dan mendasar</p>|<p>1. Terdapat representasi media dan pemformatan teks</p>|
-|<p>2. Runs tanpa server atau browser apa pun</p>|<p>2. Sudah termasuk instalasi Anaconda</p>|
-|<p>3. Hanya membutuhkan instalasi Anaconda</p>|<p>3. Memiliki kemampuan matematika, seperti  membuat bagan, grafik, dsb</p>|
-|<p>4. Memiliki debugger bawaan</p><p>4. *Notebook* yang dibuat di Jupyter dapat diakses/edit menggunakan web *browser*</p>|
-|<p>5. Dapat disesuaikan sesuai dengan preferensi pengguna</p>|<p>5. Sudah termasuk *debugger*</p><p>6. Secara otomatis menyimpan perubahan membuat kode</p>|
+|1. Sangat sederhana dan mendasar|1. Terdapat representasi media dan pemformatan teks|
+|2. Runs tanpa server atau browser apa pun|2. Sudah termasuk instalasi Anaconda|
+|3. Hanya membutuhkan instalasi Anaconda|3. Memiliki kemampuan matematika, seperti  membuat bagan, grafik, dsb|
+|4. Memiliki debugger bawaan|4. *Notebook* yang dibuat di Jupyter dapat diakses/edit menggunakan web *browser*|
+|5. Dapat disesuaikan sesuai dengan preferensi pengguna|5. Sudah termasuk *debugger*|
+|6. Secara otomatis menyimpan perubahan membuat kode|
 
 
 Adapun komparasi dari kekurangan *python projects* dan *notebook,* sebagai berikut.
@@ -23,10 +24,9 @@ Adapun komparasi dari kekurangan *python projects* dan *notebook,* sebagai berik
 |**Kekurangan**|
 | :-: |
 |**Python *Projects***|***Notebooks***|
-| :-: |
-|<p>1. File tidak dapat diakses langsung dengan perangkat lain, kecuali disalin / dikirim </p>|<p>1. Tidak dapat bekerja secara offline, sehingga memerlukan server dan web *browser*</p>|
-|<p>2. Perubahan tidak disimpan secara otomatis saat membuat kode</p>|<p>2. Instalasinya membutuhkan waktu lebih lama daripada IDE lain</p>|
-|<p>3. Tidak disarankan untuk mengembangkan program yang kompleks dan menggunakan banyak library</p>|<p>3. Mengaksesnya dengan localhost secara *default*, sehingga harus mengikuti langkah keamanan yang signifikan untuk mengaksesnya dari server lain</p>|
+|1. File tidak dapat diakses langsung dengan perangkat lain, kecuali disalin / dikirim|1. Tidak dapat bekerja secara offline, sehingga memerlukan server dan web *browser*|
+|2. Perubahan tidak disimpan secara otomatis saat membuat kode|2. Instalasinya membutuhkan waktu lebih lama daripada IDE lain|
+|3. Tidak disarankan untuk mengembangkan program yang kompleks dan menggunakan banyak library|3. Mengaksesnya dengan localhost secara *default*, sehingga harus mengikuti langkah keamanan yang signifikan untuk mengaksesnya dari server lain|
 
 ### **Instalasi *Jupyter Notebooks***
 Notebooks merupakan suatu software buatan Jupyter. Aplikasi yang paling umum digunakan dalam mengembangkan Jupyter *Notebooks* adalah JupyterLab. Terdapat dua cara umum dalam pengerjaannya, yaitu a) secara lokal menggunakan komputer, dan b) berbasis *cloud.*
