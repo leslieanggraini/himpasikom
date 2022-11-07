@@ -6,10 +6,9 @@ Halo *guys*, dalam mengembangkan *project* atau *project development* perangkat 
 Pada* python *projects* yang reguler menggunakan format .py yaitu sebuah *plain text* yang hanya mengandung kode pemrograman python saja, sedangkan *notebooks* menggunakan format .ipynb. Adapun kelebihan dan kekurangan antara python *projects* dan *notebooks,* berikut ini komparasi dari kelebihannya.
 
 
-|**Kelebihan**|
-| :-: |
+||**Kelebihan**||
+| :-: | :-: |
 |**Python *Projects***|***Notebooks***|
-| :-: |
 |1. Sangat sederhana dan mendasar|1. Terdapat representasi media dan pemformatan teks|
 |2. Runs tanpa server atau browser apa pun|2. Sudah termasuk instalasi Anaconda|
 |3. Hanya membutuhkan instalasi Anaconda|3. Memiliki kemampuan matematika, seperti  membuat bagan, grafik, dsb|
@@ -21,8 +20,8 @@ Pada* python *projects* yang reguler menggunakan format .py yaitu sebuah *plain 
 Adapun komparasi dari kekurangan *python projects* dan *notebook,* sebagai berikut.
 
 
-|**Kekurangan**|
-| :-: |
+||**Kekurangan**||
+| :-: | :-: |
 |**Python *Projects***|***Notebooks***|
 |1. File tidak dapat diakses langsung dengan perangkat lain, kecuali disalin / dikirim|1. Tidak dapat bekerja secara offline, sehingga memerlukan server dan web *browser*|
 |2. Perubahan tidak disimpan secara otomatis saat membuat kode|2. Instalasinya membutuhkan waktu lebih lama daripada IDE lain|
